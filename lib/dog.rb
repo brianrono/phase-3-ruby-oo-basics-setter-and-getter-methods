@@ -4,7 +4,7 @@ class Dog
         @name = name
     end
     def initialize
-        @breed = nil
+        @breed = " "
     end
     def breed
         @breed

@@ -4,7 +4,7 @@ class Person
         @name = name
     end
     def initialize
-        job = nil
+        job = " "
     end
     def job
         @job
